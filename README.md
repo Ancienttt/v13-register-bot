@@ -4,6 +4,7 @@
 
 
 # Bilgilendirme
+Botu 20 29 star da vericem ona göre rakamı az veriyom büyük bot degil basit bot daha güzelini atarım aptal aptal kimseye prim vermeyin bot görsellerini bıraktım star ver botu gör paşam :)
 
 # Bot Görsel
 ![image](https://media.discordapp.net/attachments/1098284616047140967/1143714948174848070/Ekran_goruntusu_2023-08-23_041035.png?width=318&height=263)
